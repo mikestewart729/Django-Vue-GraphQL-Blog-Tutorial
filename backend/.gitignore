@@ -1,0 +1,9 @@
+# Python
+.python-version
+*.pyc
+
+# SQLite
+db.sqlite3
+
+# Secret Keys
+secrets.py
